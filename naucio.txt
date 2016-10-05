@@ -1,0 +1,6 @@
+WP-CONFIG:
+1. Ako dodajes nove opcije, dodaj ih pre natpisa "thats all stop editing" 
+2. Dodaj novi salt za password - ima generator za to
+3.. Prefiks tabele menjaj pre instalacije, ako moras posle - koristi plugin
+( napravi backup pre nego sto ovo promenis)
+
